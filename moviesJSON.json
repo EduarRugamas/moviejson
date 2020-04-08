@@ -3,7 +3,7 @@
     "active": true,
     "movies":[
         { "name": "Capitana Marvel", "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/capitana-marvel-poster-1551691489.jpg" },
-        { "name": "Avengers End Game", "url": "https://cdn.atomix.vg/wp-content/uploads/2018/04/la-mejor-pelicula-avengers-infinity-war-poster1-701x1024.jpg" },
+        { "name": "Avengers Infinity wars", "url": "https://cdn.atomix.vg/wp-content/uploads/2018/04/la-mejor-pelicula-avengers-infinity-war-poster1-701x1024.jpg" },
         { "name": "Guardianes de la Galaxia", "url": "https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_29144.jpg" },
         { "name": "Sonic", "url": "https://es.web.img2.acsta.net/pictures/19/11/12/12/25/0815514.jpg" },
         { "name": "La Casa del Reloj", "url": "https://zachary-jones.com/zambombazo/wp-content/uploads/2018/08/la_casa_del_reloj_en_la_pared.jpg" },
